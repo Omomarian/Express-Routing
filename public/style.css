@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  background-color: rgb(54, 103, 103);
+  font-size: x-large;
+  color: red;
+  display: flex;
+  justify-content: space-around;
+}
+a {
+  color: white;
+}
